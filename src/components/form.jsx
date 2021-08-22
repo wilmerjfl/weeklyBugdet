@@ -30,8 +30,6 @@ const Form = (props) => {
     setName('');
     setQuantity(0);
 
-    
-
 
   }
   return ( 
